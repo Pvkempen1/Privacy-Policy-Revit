@@ -1,6 +1,6 @@
-Effective date: [insert date]
-Publisher: [your name or company name]
-Contact: [your email address]
+Effective date: [29-07-2026]
+Publisher: [ModelFlow]
+Contact: [ModelFlow_@outlook.com]
 
 1. Data Collection
 
