@@ -36,4 +36,4 @@ Users may stop using the add-in at any time by disabling or uninstalling it from
 
 If users have questions about this privacy policy, they may contact the publisher at:
 
-[your email address]
+[ModelFlow_@outlook.com]
